@@ -102,7 +102,9 @@ Potential Impact: 15-20% increase in revenue
  Charu Madaan
  
  Data Analyst | QA Software Tester | Business Intelligence
+ 
  Email: charumadaan88@gmail.com
+ 
  LinkedIn: https://www.linkedin.com/in/charu-madaan-7100b2210/
 
 ⭐ If you find this project useful, please consider starring this repository!
