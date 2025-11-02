@@ -71,6 +71,11 @@ Seaborn - Statistical visualizations
 
 Potential Impact: 15-20% increase in revenue
 
+<img width="769" height="653" alt="Screenshot-1" src="https://github.com/user-attachments/assets/2000aa2a-69d4-4d84-84b0-7fdb55ec7a77" />
+
+<img width="769" height="653" alt="Screenshot-2" src="https://github.com/user-attachments/assets/b955edd0-222c-435c-af8b-18b79e456879" />
+
+<img width="763" height="521" alt="Screenshot-3" src="https://github.com/user-attachments/assets/6e9f2b4c-07bc-4faa-85ed-ce9ed7bf842c" />
 
 # 👩 About Me
  Charu Madaan
